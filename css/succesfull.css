@@ -19,8 +19,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #1dd2af;
-  background: linear-gradient(-150deg, #3b91e7, #9041f0);
+  background: #f0b541;
+  background: linear-gradient(-150deg, #b28428, #f0d941);
 }
 
 svg {
