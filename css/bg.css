@@ -6,7 +6,7 @@
   top: 0;
   bottom: 0;
   position: absolute;
-  background: linear-gradient(124deg, #751de8, #491de8, #751de8, #3c0d7a);
+  background: linear-gradient(124deg, #e8bb28, #bebe08);
   background-size: 1800% 1800%;
 
   -webkit-animation: rainbow 18s ease infinite;

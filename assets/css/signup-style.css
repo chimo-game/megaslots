@@ -4,8 +4,8 @@
 
   --fs-1: 7rem;
 
-  --color-green: #751de8;
-  --color-acent: #751de8;
+  --color-green: #eebd1d;
+  --color-acent: #e1b62a;
   --color-white: #fff;
   --curve: cubic-bezier(0.42, 0, 0.275, 1.155);
 }
@@ -164,8 +164,8 @@ body {
 }
 
 .slider-image {
-  width: 70%;
-  height: 70%;
+  width: 50%;
+  height: 50%;
   object-fit: cover;
   transition: 0.2s;
   border-radius: 8px;
@@ -177,12 +177,12 @@ label#checkbox {
 
 .container {
   position: relative;
-  max-width: 370px;
+  max-width: 300px;
   height: auto;
   width: 100%;
   padding: 8px 25px;
   border-radius: 20px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .container header {
   margin: 4px;
