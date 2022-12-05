@@ -151,7 +151,7 @@ body {
     filter: drop-shadow(10px 10px 20px #0000);
   }
   to {
-    filter: drop-shadow(10px 10px 40px #0000);
+    filter: drop-shadow(10px 10px 40px var(--color-green));
   }
 }
 
